@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohammadjaheerunnisa.github.io/sitemap.xml
